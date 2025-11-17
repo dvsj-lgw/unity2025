@@ -14,7 +14,7 @@ public class GenerateTarget : MonoBehaviour
         destinations = GetComponentsInChildren<Transform>();
     }
 
-    public void Generater()
+    public void Generate()
     {
         int index;
         Vector3 pos;
